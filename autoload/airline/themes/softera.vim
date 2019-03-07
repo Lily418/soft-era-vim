@@ -1,9 +1,9 @@
 " ============================================================
 " softera
-"
+" 
 " URL:https://github.com/soft-aesthetic/soft-era-vim
 " Author: Colors &lt;@animalphase&gt; / Port &lt;@ngscheurich&gt;
-" Last Change: 2019/03/07 15:10
+" Last Change: 2019/03/07 16:16
 " ============================================================
 
 let g:airline#themes#softera#palette = {}

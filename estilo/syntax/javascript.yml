@@ -30,3 +30,20 @@ javaScriptDeprecated: '' # Exception
 javaScriptReserved: 'violet' # Keyword
 javaScriptDebug: '' # Debug
 javaScriptConstant: '' # Label
+# For yajs.vim
+javascriptOpSymbol: 'hotPink'
+javascriptObjectLabel: 'violet'
+javascriptEndColons: 'text'
+javascriptBrackets: 'text'
+javascriptArrowFuncArg: 'text'
+javascriptArrowFunc: 'green'
+javascriptObjectLabelColon: 'hotPink'
+javascriptArrayMethod: 'green'
+javascriptTemplateSB: 'textDark'
+javascriptObjectLiteral: 'green'
+javascriptES6SetMethod: 'green'
+javascriptBOMWindowMethod: 'green'
+javascriptConsoleMethod: 'green'
+javascriptMathStaticMethod: 'green'
+javascriptMathStaticProp: 'violet'
+javascriptDOMStorageProp: 'violet'

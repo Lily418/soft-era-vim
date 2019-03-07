@@ -1,9 +1,9 @@
 " ===============================================================
 " soft-era
-"
+" 
 " URL: https://github.com/soft-aesthetic/soft-era-vim
 " Author: Colors &lt;@animalphase&gt; / Port &lt;@ngscheurich&gt;
-" Last Change: 2019/03/07 15:10
+" Last Change: 2019/03/07 16:16
 " ===============================================================
 
 set background=light
@@ -99,6 +99,22 @@ hi javaScriptBraces guifg=#c8b3b3 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE c
 hi javaScriptNull guifg=#414141 ctermfg=238 guibg=#f2edec ctermbg=255 gui=NONE cterm=NONE
 hi javaScriptIdentifier guifg=#cb8dd7 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptReserved guifg=#cb8dd7 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptOpSymbol guifg=#ec57b4 ctermfg=205 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptObjectLabel guifg=#cb8dd7 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptEndColons guifg=#c8b3b3 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptBrackets guifg=#c8b3b3 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptArrowFuncArg guifg=#c8b3b3 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptArrowFunc guifg=#25b7b8 ctermfg=37 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptObjectLabelColon guifg=#ec57b4 ctermfg=205 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptArrayMethod guifg=#25b7b8 ctermfg=37 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptTemplateSB guifg=#414141 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptObjectLiteral guifg=#25b7b8 ctermfg=37 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptES6SetMethod guifg=#25b7b8 ctermfg=37 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptBOMWindowMethod guifg=#25b7b8 ctermfg=37 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptConsoleMethod guifg=#25b7b8 ctermfg=37 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptMathStaticMethod guifg=#25b7b8 ctermfg=37 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptMathStaticProp guifg=#cb8dd7 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptDOMStorageProp guifg=#cb8dd7 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 
 " ===================================
