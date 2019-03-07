@@ -2,8 +2,8 @@
 " soft-era
 "
 " URL: https://github.com/soft-aesthetic/soft-era-vim
-" Author: Colors <@animalphase> / Port <@ngscheurich>
-" Last Change: 2018/10/04 22:04
+" Author: Colors &lt;@animalphase&gt; / Port &lt;@ngscheurich&gt;
+" Last Change: 2019/03/07 15:10
 " ===============================================================
 
 set background=light
@@ -92,6 +92,13 @@ hi Debug guifg=#414141 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Underlined guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi Error guifg=#ffffff ctermfg=15 guibg=#dd698c ctermbg=168 gui=NONE cterm=NONE
 hi Todo guifg=#db90a7 ctermfg=175 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi javaScriptComment guifg=#e9e4e1 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javaScriptLineComment guifg=#e9e4e1 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javaScriptCommentTodo guifg=#e9e4e1 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javaScriptBraces guifg=#c8b3b3 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javaScriptNull guifg=#414141 ctermfg=238 guibg=#f2edec ctermbg=255 gui=NONE cterm=NONE
+hi javaScriptIdentifier guifg=#cb8dd7 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javaScriptReserved guifg=#cb8dd7 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 
 " ===================================
